@@ -1,5 +1,7 @@
 # Global Superstore Sales & Profitability Analysis (Power BI)
 
+<img width="1585" height="916" alt="image" src="https://github.com/user-attachments/assets/c334d179-2300-4115-8a26-b2ec36db455e" />
+
 ## Project Overview
 This project focuses on analyzing sales performance, profitability, and customer behavior for a global retail business using **Power BI**.  
 The goal was to transform raw transactional data into **actionable business insights** through effective data cleaning, modeling, and visual storytelling.
